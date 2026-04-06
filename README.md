@@ -1,6 +1,4 @@
-# nus-ASS-project
-
-## Booking Care Service
+# Booking Care Service
 
 **Booking Service** API built with **.NET Core** for managing reservations, users, and services. This service provides endpoints for creating, updating, and retrieving bookings in a secure and scalable manner.
 
@@ -50,5 +48,5 @@
 | POST   | /api/Booking       | Create a new booking      |
 | POST    | /api/Booking/{id}/reschedule  | Reschedule an existing booking|
 | POST | /api/Booking/{id}/cancel  | Cancel a booking          |
-| GET | /api/booking/{id} | Retrieve a booking by GUID
+| GET | /api/Booking/{id} | Retrieve a booking by GUID
 ---
