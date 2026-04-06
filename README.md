@@ -19,8 +19,6 @@
 ## Features
 
 - Create, update, cancel, and retrieve bookings  
-- Search bookings by date, service type, or user  
-- Role-based access control (Admin/User)  
 - RESTful API design for scalability  
 - Input validation and error handling  
 
@@ -37,7 +35,7 @@
 
 ### Prerequisites
 
-- [.NET 7 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)  
+- [.NET 10 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)  
 - Node.js 18+ (for frontend)  
 - SQL Server / PostgreSQL  
 
