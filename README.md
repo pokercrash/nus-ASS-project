@@ -7,12 +7,7 @@
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
 - [Getting Started](#getting-started)  
-- [API Endpoints](#api-endpoints)  
-- [Database Schema](#database-schema)  
-- [Authentication](#authentication)  
-- [Testing](#testing)  
-- [Future Improvements](#future-improvements)  
-- [License](#license)  
+- [API Endpoints](#bookings-endpoints)  
 
 ---
 
