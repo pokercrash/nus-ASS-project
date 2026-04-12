@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BooklyCare")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9436c2070b71918312af0137396d22eb53d133c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97aabcb5907b331510a180be82095a7062d23e1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BooklyCare")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BooklyCare")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
